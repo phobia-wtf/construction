@@ -4,4 +4,6 @@ draft: true
 weight: 0
 ---
 
-Gender, immigration status, racial and classist phobias are WTF-esque in this time and age. Coming soon.
+Gender, birthplace, racial and classist phobias in this time and age. What the fuck?
+
+Coming soon.
