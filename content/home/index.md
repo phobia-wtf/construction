@@ -1,6 +1,6 @@
 ---
 title: "Phobia.wtf"
-draft: true
+draft: false
 weight: 0
 ---
 
