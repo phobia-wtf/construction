@@ -4,6 +4,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 publishDir                       = "docs"
+title                            = "Phobia.wtf"
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
