@@ -1,0 +1,25 @@
+{
+  "name": "construction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phobia-wtf/construction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phobia-wtf/construction/issues"
+  },
+  "homepage": "https://github.com/phobia-wtf/construction#readme",
+  "dependencies": {
+    "postcss-cli": "^8.2.0"
+  }
+}
